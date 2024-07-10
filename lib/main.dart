@@ -7,7 +7,7 @@ import 'package:flutter/widgets.dart';
 import 'package:travelapp/model/travelmodel.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
